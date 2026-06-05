@@ -1,0 +1,6 @@
+{
+  "name": "Dramaturgi: Monologi-LARP Generaattori",
+  "description": "Yksinpeli-monologigeneraattori, joka ohjaa pelaajaa dramaturgisella taksonomialla jeepform-tyyliin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
